@@ -1,8 +1,5 @@
 # Deep Learning
 
-This repository showcases lab assignments completed in a **Deep Learning** course. It provides examples of building, training, and evaluating deep neural networks using various frameworks and libraries.
-
-
 
 **Welcome!** This repository contains my lab assignments from the **Deep Learning** course.
 
